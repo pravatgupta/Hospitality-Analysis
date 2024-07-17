@@ -14,36 +14,36 @@ This repository contains a comprehensive analysis of hotel performance metrics, 
 ### Occupancy
 * Evaluation of occupancy rates to understand the utilization of hotel capacity. 
 ### Cancellation Rate
-*Assessment of the percentage of bookings cancelled by guests.
+* Assessment of the percentage of bookings cancelled by guests.
 ### Total Bookings
-Overview of the total number of bookings made within the specified timeframe.
+* Overview of the total number of bookings made within the specified timeframe.
 ### Utilization of Capacity
-Examination of how effectively the hotel's capacity is being utilized.
+* Examination of how effectively the hotel's capacity is being utilized.
 ### Trend Analysis
-Analysis of trends in revenue, total bookings, and occupancy over time.
+* Analysis of trends in revenue, total bookings, and occupancy over time.
 ### Weekday & Weekend Revenue and Booking
-Comparison of revenue and booking patterns between weekdays and weekends.
+* Comparison of revenue and booking patterns between weekdays and weekends.
 ### Revenue by State & Hotel
-Breakdown of revenue generated across different states and individual hotels.
+* Breakdown of revenue generated across different states and individual hotels.
 ### Class Wise Revenue
-Analysis of revenue distribution based on different classes or room types.
+* Analysis of revenue distribution based on different classes or room types.
 ### Checked Out, Cancelled, No-show
-Breakdown of bookings into checked-out, cancelled, and no-show categories.
+* Breakdown of bookings into checked-out, cancelled, and no-show categories.
 
 ### Weekly Trend Key Metrics
-Analysis of key metrics such as revenue, total bookings, and occupancy trends on a weekly basis.
+* Analysis of key metrics such as revenue, total bookings, and occupancy trends on a weekly basis.
 
 ## Conclusion
-Insights for Strategic Planning: Analysis provides valuable insights for strategic decision-making.
-Weekend Revenue Dominance: Weekends emerge as key revenue generators.
-Significance of 'Elite' Room Class: 'Elite' rooms contribute significantly to revenue.
-Top Booking Destination: 'Mumbai' stands out as the top booking destination.
-Observations on Booking Statuses: Opportunities for improvement in reservation management and communication.
-Consistency in Weekly Bookings: Demand remains consistent throughout the week.
-Guidance for Future Endeavors: Analysis serves as a guide for future initiatives and innovation.
+* Insights for Strategic Planning: Analysis provides valuable insights for strategic decision-making.
+* Weekend Revenue Dominance: Weekends emerge as key revenue generators.
+* Significance of 'Elite' Room Class: 'Elite' rooms contribute significantly to revenue.
+* Top Booking Destination: 'Mumbai' stands out as the top booking destination.
+* Observations on Booking Statuses: Opportunities for improvement in reservation management and communication.
+* Consistency in Weekly Bookings: Demand remains consistent throughout the week.
+* Guidance for Future Endeavors: Analysis serves as a guide for future initiatives and innovation.
 
 ## Suggestions for Enhancement
-Improve Communication: Use personalized messages and reminders to reduce cancellations and no-shows.
-Enhance Customer Service: Train staff to provide exceptional service and respond promptly to guest needs.
-Optimize Revenue Management: Adjust pricing based on demand and create attractive packages to increase revenue.
-Streamline Operations: Invest in technology to automate tasks and improve efficiency in reservation management.
+* Improve Communication: Use personalized messages and reminders to reduce cancellations and no-shows.
+* Enhance Customer Service: Train staff to provide exceptional service and respond promptly to guest needs.
+* Optimize Revenue Management: Adjust pricing based on demand and create attractive packages to increase revenue.
+* Streamline Operations: Invest in technology to automate tasks and improve efficiency in reservation management.
